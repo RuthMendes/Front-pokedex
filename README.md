@@ -1,6 +1,6 @@
 # Front-pokedex
 
-A pokedex é um simples projeto Frontend, em que eu utilizo o React.js. Com isso, a partir da lista de pokemons você pode adcionar e remover pokemons da sua pokedex.
+A pokedex é um simples projeto Frontend, em que eu utilizo o React.js. Com isso, a partir da lista de pokemons você pode adicionar e remover pokemons da sua pokedex.
 
 ### Link do Surge:
 
