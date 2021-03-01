@@ -17,6 +17,5 @@ O projeto pokedex é um simples projeto simples de Frontend utilizando o React.j
 ### O que não funciona: 
 - 
 
-
 ### Postman
 https://www.getpostman.com/collections/9e661df136161c767850
